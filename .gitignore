@@ -1,0 +1,5 @@
+## Configuration Stuff
+.idea/
+
+## Tokens and such
+.env
